@@ -46,8 +46,8 @@ heading = "HI, MY NAME IS JONATHON & I AM A"
 description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
 # button
 btn     = true
-btnText = "Download More"
-btnURL  = "https://themefisher.com/"
+btnText = "Make an appointment!"
+btnURL  = "https://calendly.com/candlmedicalgroup/"
 
 # flip text
 [[params.banner.flipText]]
