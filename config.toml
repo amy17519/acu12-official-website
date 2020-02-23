@@ -1,4 +1,4 @@
-baseURL = "https://adoring-edison-7c49a2.netlify.com"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer-hugo"
